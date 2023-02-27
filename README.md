@@ -2,11 +2,6 @@
 
 Sou um graduando em Ciências Econômicas pela Universidade Católica de Pernambuco. Meus interesses incluem análise e ciência de dados, economia matemática e estatística/probabilidade computacional.
 
-## Minhas habilidades e conhecimentos incluem:
-
-- Análise de dados usando Python
-- Modelagem econômica e matemática
-- Estatística e probabilidade computacional
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violonista)](https://github.com/violonista/github-readme-stats)
 
