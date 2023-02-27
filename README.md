@@ -8,6 +8,7 @@ Sou um graduando em Ciências Econômicas pela Universidade Católica de Pernamb
 - Modelagem econômica e matemática
 - Estatística e probabilidade computacional
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violonista)](https://github.com/violonista/github-readme-stats)
 
 <!--
 **Violonista/Violonista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
