@@ -1,6 +1,6 @@
 # Olá, eu sou Joel Victor!
 
-Sou graduando em Ciências Econômicas pela Universidade Católica de Pernambuco. Meus interesses incluem análise e ciência de dados, economia matemática e estatística/probabilidade computacional.
+Sou graduando em Ciências Econômicas pela Universidade Católica de Pernambuco. Meus interesses incluem ciência de dados, economia matemática e estatística/probabilidade computacional.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvsobrinho&theme=aura_dark&show_icons=true)
