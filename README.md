@@ -1,7 +1,17 @@
-# Olá, eu sou Joel Victor!
+# Joel Victor
+Economist (B.S. in Economics from the Catholic University of Pernambuco - UNICAP) | Data Science, Machine Learning, Automation & Music Nerd.
 
-Sou graduando em Ciências Econômicas pela Universidade Católica de Pernambuco. Meus interesses incluem ciência de dados, economia matemática e estatística/probabilidade computacional.
+###  Professional: Data, Economics & XAI
+* **Stack:** Python, R, SQL.
+* **Core:** Machine Learning, XAI (Explainable AI), and Optimization.
+* **Base:** Applied Statistics and Probability.
 
+###  Hobbies: Hardware & Music Tech
+* **MIDI:** Protocol implementation and communication hacks.
+* **Embedded:** Automation and control projects with ESP32.
+* **Pedals:** Hardware reverse engineering and modifications.
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvsobrinho&theme=aura_dark&show_icons=true)
 
